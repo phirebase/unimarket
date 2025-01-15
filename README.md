@@ -12,7 +12,7 @@ UniMarket is a modern and customizable PrestaShop theme, designed to provide a s
 ## Preview
 Here’s a preview of the UniMarket theme in action:
 
-![UniMarket Preview](assets/screenshot.png)
+![UniMarket Preview](assets/unimarket.png)
 
 ## How to Access?
 
