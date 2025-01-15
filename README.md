@@ -2,20 +2,24 @@
 
 UniMarket is a modern and customizable PrestaShop theme, designed to provide a seamless shopping experience. This theme is available in **5 vibrant color variants** to suit your store's branding:
 
-1. [Bleen](https://github.com/your-user/unimarket_bleen) 🌊
-2. [Violet](https://github.com/your-user/unimarket_violet) 🌸
-3. [Yellow](https://github.com/your-user/unimarket_yellow) 🌟
-4. [Orange](https://github.com/your-user/unimarket_orange) 🍊
-5. [Green](https://github.com/your-user/unimarket_green) 🌿
+1. [Orange](https://github.com/phirebase/unimarket_orange) 🍊
+2. [Violet](https://github.com/phirebase/unimarket_violet) 🌸
+3. [Yellow](https://github.com/phirebase/unimarket_yellow) 🌟
+4. [Bleen](https://github.com/phirebase/unimarket_bleen) 🌊
+5. [Green](https://github.com/phirebase/unimarket_green) 🌿
 
 ---
+## Preview
+Here’s a preview of the UniMarket theme in action:
+
+![UniMarket Preview](assets/screenshot.png)
 
 ## How to Access?
 
 UniMarket themes are exclusively available to our **GitHub Sponsors**. Support our project and gain access to all theme variants.
 
 ### Steps to Get Access:
-1. Become a [GitHub Sponsor](https://github.com/sponsors/your-user).
+1. Become a [GitHub Sponsor](https://github.com/sponsors/phirebase).
 2. After becoming a sponsor, you'll automatically gain access to private repositories with all color variants.
 3. Download the theme of your choice and start building your store!
 
@@ -29,9 +33,9 @@ UniMarket themes are exclusively available to our **GitHub Sponsors**. Support o
 
 ---
 
-## Screenshots
+<!--## Screenshots
 ![Preview of UniMarket](https://via.placeholder.com/800x400)  
-_Example of UniMarket in action. Screenshot or GIF here._
+_Example of UniMarket in action. Screenshot or GIF here._--!>
 
 ---
 
