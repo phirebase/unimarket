@@ -2,17 +2,21 @@
 
 UniMarket is a modern and customizable PrestaShop theme, designed to provide a seamless shopping experience. This theme is available in **5 vibrant color variants** to suit your store's branding:
 
-1. [UniMarket – PrestaShop Theme - Orange](https://github.com/phirebase/unimarket_orange) 🍊
-2. [UniMarket – PrestaShop Theme - Violet](https://github.com/phirebase/unimarket_violet) 🌸
-3. [UniMarket – PrestaShop Theme - Yellow](https://github.com/phirebase/unimarket_yellow) 🌟
-4. [UniMarket – PrestaShop Theme - Bleen](https://github.com/phirebase/unimarket_bleen) 🌊
-5. [UniMarket – PrestaShop Theme - Green](https://github.com/phirebase/unimarket_green) 🌿
+![UniMarket Preview](assets/unimarket.png)
+
+1. [UniMarket - Orange](https://github.com/phirebase/unimarket_orange) 🍊
+2. [UniMarket - Violet](https://github.com/phirebase/unimarket_violet) 🌸
+3. [UniMarket - Yellow](https://github.com/phirebase/unimarket_yellow) 🌟
+4. [UniMarket - Bleen](https://github.com/phirebase/unimarket_bleen) 🌊
+5. [UniMarket - Green](https://github.com/phirebase/unimarket_green) 🌿
 
 ---
 ## Preview
 Here’s a preview of the UniMarket theme in action:
 
-![UniMarket Preview](assets/unimarket.png)
+![UniMarket Preview](assets/unimarket.jpg)
+
+![UniMarket Preview](assets/unimarket_orange_final1.jpg)
 
 ## How to Access?
 
