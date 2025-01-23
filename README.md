@@ -4,11 +4,11 @@ UniMarket is a modern and customizable PrestaShop theme, designed to provide a s
 
 ![UniMarket Preview](assets/unimarket.png)
 
-1. [UniMarket - Orange](https://github.com/Phirebase-HQ/unimarket_orange) 🍊
-2. [UniMarket - Violet](https://github.com/Phirebase-HQ/unimarket_violet) 🌸
-3. [UniMarket - Yellow](https://github.com/Phirebase-HQ/unimarket_yellow) 🌟
-4. [UniMarket - Bleen](https://github.com/Phirebase-HQ/unimarket_bleen) 🌊
-5. [UniMarket - Green](https://github.com/Phirebase-HQ/unimarket_green) 🌿
+1. UniMarket - Orange 🍊
+2. UniMarket - Violet 🌸
+3. UniMarket - Yellow 🌟
+4. UniMarket - Bleen 🌊
+5. UniMarket - Green 🌿
 
 ---
 ## Preview
@@ -21,7 +21,7 @@ Here’s a preview of the UniMarket theme in action:
 UniMarket themes are exclusively available to our **GitHub Sponsors**. Support our project and gain access to all theme variants.
 
 ### Steps to Get Access:
-1. Become a [GitHub Sponsor](https://github.com/sponsors/phirebase).
+1. Become a [GitHub Sponsor](https://github.com/sponsors/phirebase). 🤖 Access to Code! Unlock access to private repositories and dive into exclusive projects and resources. $20 a month / Sponsors will be automatically invited to a private repository.
 2. After becoming a sponsor, you'll automatically gain access to private repositories with all color variants.
 3. Download the theme of your choice and start building your store!
 
