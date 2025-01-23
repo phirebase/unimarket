@@ -21,9 +21,8 @@ Here’s a preview of the UniMarket theme in action:
 UniMarket themes are exclusively available to our **GitHub Sponsors**. Support our project and gain access to all theme variants.
 
 ### Steps to Get Access:
-1. Become a [GitHub Sponsor](https://github.com/sponsors/phirebase). 🤖 Access to Code! Unlock access to private repositories and dive into exclusive projects and resources. $20 a month / Sponsors will be automatically invited to a private repository.
-2. After becoming a sponsor, you'll automatically gain access to private repositories with all color variants.
-3. Download the theme of your choice and start building your store!
+1. Become a [GitHub Sponsor](https://github.com/sponsors/phirebase). 🤖 Access to Code! Unlock access to private repositories and dive into exclusive projects and resources. $20 a month / Sponsors will be automatically invited to private repositories with all color variants.  
+2. Download the theme of your choice and start building your store!
 
 ---
 
